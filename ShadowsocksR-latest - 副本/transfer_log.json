@@ -1,0 +1,18 @@
+{
+	"jp.getss.cc" : {
+		"totalUploadBytes" : 6645614,
+		"totalDownloadBytes" : 129072824
+	},
+	"ca.getss.cc" : {
+		"totalUploadBytes" : 29795320,
+		"totalDownloadBytes" : 523312416
+	},
+	"sg.getss.cc" : {
+		"totalUploadBytes" : 41110916,
+		"totalDownloadBytes" : 503602178
+	},
+	"kr.getss.cc" : {
+		"totalUploadBytes" : 49414227,
+		"totalDownloadBytes" : 825986000
+	}
+}
