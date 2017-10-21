@@ -1,9 +1,0 @@
-# install4j response file for Computta 0.74
-executeLauncherAction$Boolean=true
-sys.adminRights$Boolean=true
-sys.component.110$Boolean=true
-sys.installationDir=D\:\\computto\\Computta
-sys.languageId=zh_CN
-sys.programGroupAllUsers$Boolean=true
-sys.programGroupDisabled$Boolean=false
-sys.programGroupName=Computta
